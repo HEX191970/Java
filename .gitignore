@@ -1,0 +1,6 @@
+#ignore file name 
+.project
+.classpath
+.settings
+bin
+build

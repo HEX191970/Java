@@ -1,4 +1,4 @@
-package a.aa.aaa.aaaa;
+package a.aa.aaa.aaaa.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
